@@ -1,4 +1,10 @@
-Ethereum NFT Digitial Art Auction Marketplace
+VIDEO LINK:- https://drive.google.com/file/d/1P-uElpqGK1I-m92wl-dCK42BfGXjA6PH/view?usp=sharing
+
+PPT LINK:- https://drive.google.com/file/d/1l40s6pDRlXcGjh3TMymNECsAMi963mqG/view?usp=sharing
+
+DEPLOYED LINK:-
+
+BUZZ-BID NFT Digitial Art Auction Marketplace
 
 This DAPP lets anyone add their digital art to IPFS and then put it on auction. Once sold, it is tokenized in ERC721 token $ART making this platform a censorship resistant auction marketplace for art. 
 The auction takes place where the seller can start it with a minimum price and add an incremental value. The incremental value is the fixed constant increment that happens to the value. The highest bid is the maximum bid price. The highest bidding bid is the maximum bid amount put in by the user. 
