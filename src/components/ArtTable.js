@@ -1,7 +1,7 @@
 import React from 'react';
 import { MDBDataTable } from 'mdbreact';
 
-const DatatablePage = (props) => {
+const pagedetect = (props) => {
   const data = {
     columns: props.columns,
     rows: props.rows   
@@ -19,4 +19,4 @@ const DatatablePage = (props) => {
   );
 }
 
-export default DatatablePage;
+export default pagedetect;
